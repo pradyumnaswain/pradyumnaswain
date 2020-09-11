@@ -23,5 +23,5 @@
 <a href="https://twitter.com/pradyumnaswain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pradyumnaswain" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/pradyumnaswain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pradyumnaswain" height="30" width="30" /></a>
 <a href="https://fb.com/pradyumnaswain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pradyumnaswain" height="30" width="30" /></a>
-<a href="https://instagram.com/pradyumnaswain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pradyumnaswain" height="30" width="30" /></a>
+<a href="https://instagram.com/swainpradyumna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pradyumnaswain" height="30" width="30" /></a>
 </p>
