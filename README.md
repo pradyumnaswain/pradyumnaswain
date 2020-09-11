@@ -20,6 +20,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradyumnaswain&show_icons=true" alt="pradyumnaswain" /></p>
 
 <p align="center">
+<a href="https://stackoverflow.com/users/3110035/pradyumna-swain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="pradyumnaswain" height="30" width="30" /></a>
+<a href="https://www.meetup.com/members/184186766/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meetup.svg" alt="pradyumnaswain" height="30" width="30" /></a>
 <a href="https://twitter.com/pradyumnaswain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pradyumnaswain" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/pradyumnaswain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pradyumnaswain" height="30" width="30" /></a>
 <a href="https://fb.com/pradyumnaswain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pradyumnaswain" height="30" width="30" /></a>
