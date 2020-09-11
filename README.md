@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Micronaut, Kotlin**
 
-- 👨‍💻 All of my projects are available at [www.pradyumnaswain.info](www.pradyumnaswain.info)
+- 👨‍💻 All of my details are available at [www.pradyumnaswain.info](www.pradyumnaswain.info)
 
 - 💬 Ask me about **Java, Groovy, Spring Boot**
 
